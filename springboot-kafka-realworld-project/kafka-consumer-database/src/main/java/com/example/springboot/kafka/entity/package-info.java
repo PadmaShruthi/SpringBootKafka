@@ -1,0 +1,1 @@
+package com.example.springboot.kafka.entity;
